@@ -1,7 +1,7 @@
-![logo](https://github.com/Binodnayak914/Binod-Kumar-Nayak/blob/main/Banner.jpg)
+![logo](https://github.com/Binodnayak914/Binodnayak914/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Binod Kumar Nayak</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Binodnayak914/Binod-Kumar-Nayak/blob/main/logos.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Binodnayak914/Binodnayak914/blob/main/logos.gif">
 
 - 💬 Ask me about **React**
 
